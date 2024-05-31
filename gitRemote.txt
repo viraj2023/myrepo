@@ -7,3 +7,4 @@ git remote add origin https://github.com/viraj2023/myrepo.git
 git config --global user.name "Viraj_Rathva"
 git config --global user.email "virajrathva1310@gmail.com"
 git push -u origin master
+dummy changes
