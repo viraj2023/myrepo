@@ -1,0 +1,9 @@
+mkdir myproject
+cd myproject
+git init
+git add READme.md
+git commit -m "read"
+git remote add origin https://github.com/viraj2023/myrepo.git
+git config --global user.name "Viraj_Rathva"
+git config --global user.email "virajrathva1310@gmail.com"
+git push -u origin master
